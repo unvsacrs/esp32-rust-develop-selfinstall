@@ -1,0 +1,8 @@
+
+1. VS-CODEにてubuntuへ新規アタッチ
+
+2. インストールの実行
+bash install.sh
+
+3. パスの設定
+source $HOME/.bashrc
